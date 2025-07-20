@@ -67,6 +67,7 @@ pip install -r requirements.txt  # Если используете requirements.
 
 ```sql
 CREATE DATABASE credit_risk;
+```
 
 Создайте таблицы:
 
