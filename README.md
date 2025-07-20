@@ -53,11 +53,13 @@ A credit risk analysis project showcasing PD/LGD/ECL calculations on simulated d
 ```bash
 git clone https://github.com/ваш-логин/credit-risk-analysis.git
 cd credit-risk-analysis
+```
 
 Установите зависимости:
 
-bash
+```bash
 pip install -r requirements.txt  # Если используете requirements.txt
+```
 
 ## 🗄 Настройка базы данных
 
