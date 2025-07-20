@@ -50,25 +50,25 @@ A credit risk analysis project showcasing PD/LGD/ECL calculations on simulated d
 ## 🔧 Установка
 Клонируйте репозиторий:
 
-bash
+```bash
 git clone https://github.com/ваш-логин/credit-risk-analysis.git
 cd credit-risk-analysis
 
 Установите зависимости:
 
-bash
+```bash
 pip install -r requirements.txt  # Если используете requirements.txt
 
 ## 🗄 Настройка базы данных
 
 Создайте БД в PostgreSQL:
 
-sql
+```sql
 CREATE DATABASE credit_risk;
 
 Создайте таблицы:
 
-sql
+```sql
 DROP TABLE IF EXISTS loans;
 DROP TABLE IF EXISTS customers;
 CREATE TABLE loans (
