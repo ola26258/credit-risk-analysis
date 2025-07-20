@@ -15,7 +15,7 @@ A credit risk analysis project showcasing PD/LGD/ECL calculations on simulated d
 - [Project Structure](#-project-structure)
 - [SQL Query Examples](#-sql-query-examples)
 - [Author](#-author)
-[Back to top](#credit-risk-analysis)
+- [Back to top](#credit-risk-analysis)
 
 
 ## 🛠 Requirements
@@ -37,7 +37,7 @@ A credit risk analysis project showcasing PD/LGD/ECL calculations on simulated d
 - [Структура проекта](#-структура-проекта)
 - [Примеры SQL-запросов](#-примеры-sql-запросов)
 - [Автор](#-автор)
-[Наверх](#credit-risk-analysis)
+- [Наверх](#credit-risk-analysis)
 
 ## 🛠 Требования
 - Python 3.7+
