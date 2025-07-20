@@ -44,4 +44,50 @@ A credit risk analysis project showcasing PD/LGD/ECL calculations on simulated d
 - PostgreSQL 12+
 - Библиотеки:
   ```bash
-  pip install psycopg2-binary pandas numpy
+  pip install psycopg2-binary pandas numpy```
+
+
+## 🔧 Установка
+Клонируйте репозиторий:
+
+```bash
+git clone https://github.com/ваш-логин/credit-risk-analysis.git
+cd credit-risk-analysis```
+
+Установите зависимости:
+
+```bash
+pip install -r requirements.txt```  # Если используете requirements.txt
+
+## 🗄 Настройка базы данных
+
+Создайте БД в PostgreSQL:
+
+```sql
+CREATE DATABASE credit_risk;```
+Создайте таблицы:
+
+```sql
+DROP TABLE IF EXISTS loans;
+DROP TABLE IF EXISTS customers;
+CREATE TABLE loans (
+    loan_id INT PRIMARY KEY,
+    customer_id INT,
+    loan_amount NUMERIC,
+    loan_type VARCHAR(20),
+    interest_rate NUMERIC,
+    term INT,
+	issue_date DATE,
+    status VARCHAR(20),
+	credit_score_band VARCHAR(20),
+	exposure_at_default NUMERIC(20,10),
+    recovered_amount NUMERIC(20,10)
+);
+  
+
+CREATE TABLE customers (
+    customer_id INT PRIMARY KEY,
+    income NUMERIC,
+    employment_length INT,
+    region VARCHAR(50)
+);```
