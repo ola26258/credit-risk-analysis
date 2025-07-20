@@ -44,7 +44,7 @@ A credit risk analysis project showcasing PD/LGD/ECL calculations on simulated d
 - PostgreSQL 12+
 - Библиотеки:
   ```bash
-  pip install psycopg2-binary pandas numpy```
+  pip install psycopg2-binary pandas numpy
 
 
 ## 🔧 Установка
