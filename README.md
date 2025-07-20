@@ -56,7 +56,7 @@ cd credit-risk-analysis
 
 Установите зависимости:
 
-```bash
+bash
 pip install -r requirements.txt  # Если используете requirements.txt
 
 ## 🗄 Настройка базы данных
