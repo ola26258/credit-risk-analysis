@@ -5,7 +5,9 @@
 
 <a id="english-version"></a>
 ## English Version
-## 📌 Table of Contents
+A credit risk analysis project showcasing PD/LGD/ECL calculations on simulated data using PostgreSQL and Python.
+
+### 📌 Table of Contents
 - [Requirements](#-requirements)
 - [Installation](#-installation)
 - [Database Setup](#-database-setup)
@@ -22,12 +24,11 @@
 - Libraries:
   ```bash
   pip install psycopg2-binary pandas numpy
-   
-### RUS
-Проект демонстрирует анализ кредитного портфеля (расчет PD, LGD, ECL) на синтетических данных с использованием PostgreSQL и Python.
 
 <a id="russian-version"></a>
 ## Русская версия
+Проект демонстрирует анализ кредитного портфеля (расчет PD, LGD, ECL) на синтетических данных с использованием PostgreSQL и Python.
+
 ### 📌 Содержание
 - [Требования](#-требования)
 - [Установка](#-установка)
