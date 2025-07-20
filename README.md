@@ -1,7 +1,7 @@
 # credit-risk-analysis
 # Анализ кредитного риска с помощью SQL и Python
-- [ENG](#-ENG)
-- [RUS](#-RUS)
+- [ENG](##-ENG)
+- [RUS](##-RUS)
 
 ### ENG
 ## 📌 Table of Contents
