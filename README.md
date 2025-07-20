@@ -1,5 +1,5 @@
 # credit-risk-analysis
-# Анализ кредитного риска с помощью SQL и Python
+# Credit Risk Analysis with SQL and Python
 - [English Version](#english-version)
 - [Русская версия](#russian-version)
 
@@ -95,3 +95,23 @@ CREATE TABLE customers (
     employment_length INT,
     region VARCHAR(50)
 );
+```
+## 🚀 Запуск
+
+Сгенерируйте тестовые данные:
+
+```bash
+python generate_data.py
+```
+Файлы loans.csv и customers.csv появятся в папке data/.
+
+Импортируйте данные в PostgreSQL:
+
+```bash
+python import_data.py
+```
+Для выполнения SQL-запросов используйте:
+
+```bash
+psql -U ваш_пользователь -d credit_risk -f queries/1_pd_calculation.sql
+```
