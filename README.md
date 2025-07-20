@@ -52,7 +52,7 @@ A credit risk analysis project showcasing PD/LGD/ECL calculations on simulated d
 
 ```bash
 git clone https://github.com/ваш-логин/credit-risk-analysis.git
-cd credit-risk-analysis```
+cd credit-risk-analysis
 
 Установите зависимости:
 
@@ -90,4 +90,4 @@ CREATE TABLE customers (
     income NUMERIC,
     employment_length INT,
     region VARCHAR(50)
-);```
+);
