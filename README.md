@@ -64,7 +64,8 @@ pip install -r requirements.txt  # Если используете requirements.
 Создайте БД в PostgreSQL:
 
 ```sql
-CREATE DATABASE credit_risk;```
+CREATE DATABASE credit_risk;
+
 Создайте таблицы:
 
 ```sql
