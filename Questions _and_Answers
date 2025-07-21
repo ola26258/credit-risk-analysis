@@ -1,0 +1,12 @@
+### Задание: Определите долю дефолтных кредитов (status = 'default') от общего количества выданных кредитов в разрезе категорий кредитного скоринга (credit_score_band).
+```sql
+SELECT 
+	credit_score_band, 
+	ROUND(COUNT(CASE WHEN status='default' 
+		THEN 1 
+		ELSE NULL 
+		END)*100.0/COUNT(*),2) AS PD
+FROM loans
+GROUP BY credit_score_band
+```
+Result:
