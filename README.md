@@ -97,10 +97,6 @@ credit-risk-analysis/ \
 ├── data/                                      # CSV-files containing raw data \
 │   ├── loans.csv                              # Loan portfolio data (amounts, types, statuses, risk metrics) \
 │   └── customers.csv                          # Customer demographics and financial profiles \
-├── queries/                                   # SQL-queries for risk analysis \
-│   ├── 1_pd_calculation.sql                   # Probability of Default (PD) computation \
-│   ├── 2_lgd_analysis.sql                     # Loss Given Default (LGD) modeling \
-│   └── 3_ecl_model.sql                        # Expected Credit Loss (ECL) calculations \
 ├── docs/                                      # Documentation files \
 │   └── ER_diagram.png                         # Entity-Relationship diagram of database schema \
 ├── generate_data.py                           # Python script to generate synthetic loan data \
@@ -201,10 +197,6 @@ credit-risk-analysis/ \
 ├── data/                  	 # CSV-файлы с данными \
 │   ├── loans.csv \
 │   └── customers.csv \
-├── queries/            	 # SQL-запросы \
-│   ├── 1_pd_calculation.sql \
-│   ├── 2_lgd_analysis.sql \
-│   └── 3_ecl_model.sql \
 ├── docs/                 	 # Документация \
 │   └── ER_diagram.png \
 ├── generate_data.py      	 # Генератор тестовых данных \
