@@ -1,0 +1,1001 @@
+customer_id,income,employment_length,region
+100,151958,1,Yekaterinburg
+101,176867,4,Yekaterinburg
+102,161932,7,Moscow
+103,133694,4,Moscow
+104,149879,6,Kazan
+105,140268,9,Yekaterinburg
+106,84886,1,St. Petersburg
+107,167337,5,Moscow
+108,198266,7,Kazan
+109,117498,1,Yekaterinburg
+110,142727,4,Yekaterinburg
+111,156324,6,St. Petersburg
+112,46023,2,Kazan
+113,71090,5,Yekaterinburg
+114,97221,1,Moscow
+115,94820,6,St. Petersburg
+116,30769,6,Kazan
+117,89735,4,St. Petersburg
+118,94925,8,Moscow
+119,35311,4,Kazan
+120,133355,8,St. Petersburg
+121,115305,8,Novosibirsk
+122,189765,5,Moscow
+123,160608,4,Moscow
+124,186730,2,Moscow
+125,114478,3,Novosibirsk
+126,152537,3,Novosibirsk
+127,179503,4,Yekaterinburg
+128,160523,4,St. Petersburg
+129,32747,5,Yekaterinburg
+130,153855,4,St. Petersburg
+131,95725,8,Novosibirsk
+132,159981,6,Novosibirsk
+133,114654,6,Yekaterinburg
+134,196845,8,Kazan
+135,149346,7,Yekaterinburg
+136,97435,8,St. Petersburg
+137,86886,2,Yekaterinburg
+138,96803,9,Moscow
+139,61551,1,St. Petersburg
+140,146216,8,St. Petersburg
+141,41394,4,Kazan
+142,99092,4,Novosibirsk
+143,33890,5,St. Petersburg
+144,71606,8,Novosibirsk
+145,117313,5,Yekaterinburg
+146,171699,8,Moscow
+147,38792,1,Kazan
+148,184969,9,Novosibirsk
+149,98148,6,St. Petersburg
+150,154243,3,Novosibirsk
+151,150174,8,St. Petersburg
+152,184555,9,Novosibirsk
+153,154358,6,St. Petersburg
+154,78555,7,Yekaterinburg
+155,47159,1,St. Petersburg
+156,140510,5,St. Petersburg
+157,136530,5,Moscow
+158,110077,4,St. Petersburg
+159,65920,6,Moscow
+160,49457,7,Kazan
+161,108953,9,Moscow
+162,82995,1,Yekaterinburg
+163,39692,6,Moscow
+164,67065,7,Kazan
+165,129299,3,Yekaterinburg
+166,193678,8,Novosibirsk
+167,41534,5,Novosibirsk
+168,70397,9,Moscow
+169,121387,5,Moscow
+170,31016,9,Kazan
+171,85591,4,Kazan
+172,53247,9,St. Petersburg
+173,54300,5,Kazan
+174,112798,9,St. Petersburg
+175,39268,3,Yekaterinburg
+176,116807,4,Moscow
+177,42185,9,Yekaterinburg
+178,169643,6,Kazan
+179,68044,2,Yekaterinburg
+180,81214,7,Yekaterinburg
+181,144752,2,Yekaterinburg
+182,78984,2,Kazan
+183,70774,1,Yekaterinburg
+184,32568,3,St. Petersburg
+185,150151,6,Kazan
+186,163767,8,Yekaterinburg
+187,154375,9,Kazan
+188,166330,7,Novosibirsk
+189,69504,4,St. Petersburg
+190,194231,6,Yekaterinburg
+191,43986,5,Novosibirsk
+192,91858,8,Novosibirsk
+193,159312,1,Kazan
+194,42666,1,Novosibirsk
+195,68660,6,St. Petersburg
+196,164633,2,St. Petersburg
+197,56854,5,Moscow
+198,94505,1,St. Petersburg
+199,134488,7,Novosibirsk
+200,52662,1,St. Petersburg
+201,38392,4,Kazan
+202,60535,9,Moscow
+203,143569,1,Novosibirsk
+204,82256,4,Moscow
+205,119135,6,Novosibirsk
+206,157478,6,Kazan
+207,65222,8,Moscow
+208,107373,1,Yekaterinburg
+209,153684,7,Novosibirsk
+210,40965,1,Yekaterinburg
+211,54538,7,Moscow
+212,138066,3,Yekaterinburg
+213,143252,8,Yekaterinburg
+214,169182,3,Moscow
+215,188338,1,Kazan
+216,128806,8,Yekaterinburg
+217,167982,3,Yekaterinburg
+218,140989,2,Kazan
+219,120982,1,Yekaterinburg
+220,151626,3,Yekaterinburg
+221,149176,2,Yekaterinburg
+222,161278,2,St. Petersburg
+223,152409,6,Kazan
+224,53419,1,Yekaterinburg
+225,80015,2,Kazan
+226,152096,6,Novosibirsk
+227,137059,3,Novosibirsk
+228,140687,4,Yekaterinburg
+229,117939,1,Kazan
+230,179213,8,Kazan
+231,135878,7,Kazan
+232,194899,7,St. Petersburg
+233,92623,3,Novosibirsk
+234,105450,3,Kazan
+235,123426,2,Kazan
+236,147845,1,St. Petersburg
+237,183371,7,St. Petersburg
+238,73585,7,Kazan
+239,139225,2,Moscow
+240,94044,7,Kazan
+241,139556,8,Kazan
+242,32693,1,St. Petersburg
+243,125259,9,St. Petersburg
+244,55939,7,Kazan
+245,182906,3,Kazan
+246,48047,8,Kazan
+247,56105,7,St. Petersburg
+248,105766,8,Kazan
+249,176779,6,Kazan
+250,183048,9,Yekaterinburg
+251,74262,5,Moscow
+252,155117,3,Novosibirsk
+253,53776,3,Moscow
+254,191152,1,Yekaterinburg
+255,158376,8,Novosibirsk
+256,167848,2,Kazan
+257,122787,3,Yekaterinburg
+258,157948,8,Kazan
+259,85016,8,St. Petersburg
+260,170546,4,Yekaterinburg
+261,51959,4,St. Petersburg
+262,166602,5,Yekaterinburg
+263,149101,6,Yekaterinburg
+264,33748,5,St. Petersburg
+265,43545,7,Novosibirsk
+266,157659,2,Moscow
+267,195838,7,Kazan
+268,103530,7,Yekaterinburg
+269,123557,1,Kazan
+270,91087,7,St. Petersburg
+271,98840,5,Kazan
+272,148451,3,St. Petersburg
+273,81005,3,Kazan
+274,69353,4,Moscow
+275,82733,2,Moscow
+276,95318,2,Moscow
+277,184736,1,Moscow
+278,97172,5,Moscow
+279,123264,4,Moscow
+280,56736,2,St. Petersburg
+281,142859,3,Yekaterinburg
+282,142181,7,Kazan
+283,161926,7,Moscow
+284,120084,4,St. Petersburg
+285,199695,5,St. Petersburg
+286,37392,5,St. Petersburg
+287,85680,6,Yekaterinburg
+288,80859,9,Kazan
+289,155657,2,Yekaterinburg
+290,187381,5,Novosibirsk
+291,100467,3,St. Petersburg
+292,128506,4,Novosibirsk
+293,139751,6,Moscow
+294,148906,8,Moscow
+295,173760,1,Yekaterinburg
+296,55342,8,Kazan
+297,198229,7,Novosibirsk
+298,136308,1,Kazan
+299,136081,2,Yekaterinburg
+300,119045,3,Moscow
+301,64698,1,Kazan
+302,140078,9,Kazan
+303,110623,8,Moscow
+304,52671,2,Novosibirsk
+305,186256,9,Moscow
+306,123384,7,Kazan
+307,116202,9,Novosibirsk
+308,81663,6,Novosibirsk
+309,45708,6,Moscow
+310,121906,4,Kazan
+311,79811,2,Yekaterinburg
+312,163883,7,Kazan
+313,86250,5,St. Petersburg
+314,142547,6,Yekaterinburg
+315,154249,2,Novosibirsk
+316,64754,5,Yekaterinburg
+317,172483,4,Novosibirsk
+318,163983,9,Novosibirsk
+319,169752,6,Yekaterinburg
+320,114896,2,Novosibirsk
+321,101295,1,Novosibirsk
+322,130689,5,St. Petersburg
+323,41111,9,Kazan
+324,67504,6,Kazan
+325,162874,7,St. Petersburg
+326,38155,5,Yekaterinburg
+327,69384,6,Moscow
+328,142561,5,Moscow
+329,77254,9,Moscow
+330,51918,6,St. Petersburg
+331,115981,8,St. Petersburg
+332,60306,2,Novosibirsk
+333,177718,9,Moscow
+334,76843,5,Yekaterinburg
+335,150975,7,Yekaterinburg
+336,126601,1,Moscow
+337,137512,5,Moscow
+338,177443,2,Moscow
+339,141472,6,St. Petersburg
+340,163121,1,St. Petersburg
+341,192688,3,St. Petersburg
+342,133727,5,Kazan
+343,142893,4,Yekaterinburg
+344,50932,3,Yekaterinburg
+345,147796,5,Novosibirsk
+346,59855,8,St. Petersburg
+347,37400,4,Kazan
+348,147858,1,Kazan
+349,45151,7,Yekaterinburg
+350,96690,8,St. Petersburg
+351,34499,3,Novosibirsk
+352,36295,6,St. Petersburg
+353,150885,2,Moscow
+354,156071,7,St. Petersburg
+355,89040,8,Moscow
+356,42183,6,Moscow
+357,190371,6,Novosibirsk
+358,173946,5,Yekaterinburg
+359,146336,8,St. Petersburg
+360,62711,1,Moscow
+361,35539,4,St. Petersburg
+362,156063,4,Yekaterinburg
+363,163629,3,Yekaterinburg
+364,68360,3,Kazan
+365,163272,4,Yekaterinburg
+366,51357,1,Novosibirsk
+367,149121,2,Moscow
+368,107505,9,Kazan
+369,32869,2,Novosibirsk
+370,80108,5,St. Petersburg
+371,142296,9,Moscow
+372,124179,9,Yekaterinburg
+373,120272,8,Moscow
+374,68467,1,St. Petersburg
+375,53328,1,Kazan
+376,121412,9,Kazan
+377,165059,8,Kazan
+378,88871,9,Yekaterinburg
+379,183471,7,Novosibirsk
+380,158391,3,Novosibirsk
+381,116416,3,Moscow
+382,100271,2,Yekaterinburg
+383,74064,5,Kazan
+384,137450,3,Kazan
+385,49830,6,St. Petersburg
+386,178501,2,St. Petersburg
+387,167965,3,Kazan
+388,146381,5,Kazan
+389,77333,1,Yekaterinburg
+390,164508,1,Novosibirsk
+391,106213,9,St. Petersburg
+392,166967,7,Novosibirsk
+393,180810,1,Yekaterinburg
+394,60746,8,Kazan
+395,79377,3,Novosibirsk
+396,84045,8,Kazan
+397,127888,5,Kazan
+398,137455,1,Moscow
+399,166672,7,Novosibirsk
+400,123179,5,Novosibirsk
+401,75714,6,Kazan
+402,132946,6,Yekaterinburg
+403,139616,8,Moscow
+404,135983,9,Kazan
+405,154123,2,St. Petersburg
+406,179661,9,St. Petersburg
+407,73484,9,Moscow
+408,112989,7,Yekaterinburg
+409,66212,1,Kazan
+410,73525,7,Novosibirsk
+411,193707,5,Moscow
+412,93208,6,Yekaterinburg
+413,63828,7,Novosibirsk
+414,179783,5,St. Petersburg
+415,33420,7,St. Petersburg
+416,126752,9,Novosibirsk
+417,161373,3,Moscow
+418,145294,8,St. Petersburg
+419,154019,2,Kazan
+420,95726,7,Novosibirsk
+421,171564,2,Novosibirsk
+422,145668,4,St. Petersburg
+423,36102,7,Moscow
+424,148015,3,Kazan
+425,56641,2,Moscow
+426,195656,7,Yekaterinburg
+427,193817,1,Yekaterinburg
+428,184165,8,St. Petersburg
+429,133746,3,St. Petersburg
+430,66631,2,St. Petersburg
+431,102991,3,Yekaterinburg
+432,34014,5,Moscow
+433,41093,8,Moscow
+434,48070,7,St. Petersburg
+435,65777,7,Kazan
+436,86958,7,Moscow
+437,112074,8,Yekaterinburg
+438,40729,1,Novosibirsk
+439,188823,4,Novosibirsk
+440,135864,6,Novosibirsk
+441,160858,9,Kazan
+442,135510,2,St. Petersburg
+443,84748,1,Yekaterinburg
+444,35801,2,Kazan
+445,180262,7,Yekaterinburg
+446,59592,3,Yekaterinburg
+447,40647,2,St. Petersburg
+448,169788,7,Novosibirsk
+449,140627,2,St. Petersburg
+450,100316,3,Kazan
+451,32368,7,Kazan
+452,107575,4,Kazan
+453,36655,1,St. Petersburg
+454,100031,5,Yekaterinburg
+455,117922,9,Yekaterinburg
+456,154046,8,Moscow
+457,174475,9,Kazan
+458,62097,9,Yekaterinburg
+459,172038,7,Moscow
+460,154862,4,Yekaterinburg
+461,148834,5,Kazan
+462,123848,1,Novosibirsk
+463,82921,1,Kazan
+464,156141,3,St. Petersburg
+465,52677,8,Yekaterinburg
+466,85609,2,Yekaterinburg
+467,61024,4,St. Petersburg
+468,100313,2,St. Petersburg
+469,157813,5,Novosibirsk
+470,125285,9,Yekaterinburg
+471,176410,1,Yekaterinburg
+472,143632,5,Novosibirsk
+473,180580,9,Moscow
+474,33051,1,Novosibirsk
+475,144692,9,Kazan
+476,117235,8,Yekaterinburg
+477,193165,4,St. Petersburg
+478,103523,5,Kazan
+479,124476,5,Yekaterinburg
+480,47019,6,Novosibirsk
+481,113613,7,Kazan
+482,116672,8,Yekaterinburg
+483,103847,8,Moscow
+484,112750,2,Moscow
+485,58251,9,St. Petersburg
+486,133481,7,Yekaterinburg
+487,142566,4,Moscow
+488,55945,4,Novosibirsk
+489,120852,8,Yekaterinburg
+490,62217,4,Novosibirsk
+491,38308,6,Novosibirsk
+492,35949,5,Moscow
+493,162222,3,Yekaterinburg
+494,130235,2,Kazan
+495,104740,9,Moscow
+496,146352,9,Moscow
+497,96617,1,Yekaterinburg
+498,46896,3,Yekaterinburg
+499,160798,8,Novosibirsk
+500,168877,6,Yekaterinburg
+501,35237,5,Novosibirsk
+502,50056,5,Moscow
+503,144548,6,St. Petersburg
+504,141488,7,Kazan
+505,164415,1,Moscow
+506,174572,9,Yekaterinburg
+507,59375,3,Kazan
+508,170734,4,St. Petersburg
+509,46964,1,St. Petersburg
+510,143429,3,Novosibirsk
+511,97215,2,Kazan
+512,99042,2,Novosibirsk
+513,174356,1,Moscow
+514,123468,8,Kazan
+515,39435,3,Moscow
+516,108832,3,Novosibirsk
+517,81293,6,Kazan
+518,108781,8,Novosibirsk
+519,190196,9,Kazan
+520,73919,9,Novosibirsk
+521,196319,4,St. Petersburg
+522,151172,5,Novosibirsk
+523,124758,2,St. Petersburg
+524,86573,9,Novosibirsk
+525,89101,8,Kazan
+526,56646,3,Kazan
+527,134185,9,Kazan
+528,53049,3,Yekaterinburg
+529,128116,9,Moscow
+530,127379,2,Kazan
+531,98385,9,St. Petersburg
+532,156131,8,Kazan
+533,53289,9,Yekaterinburg
+534,140226,5,St. Petersburg
+535,130793,2,Yekaterinburg
+536,39823,8,St. Petersburg
+537,71975,6,Novosibirsk
+538,39540,8,Moscow
+539,46364,5,Moscow
+540,165683,2,Yekaterinburg
+541,57663,6,Moscow
+542,81991,5,Yekaterinburg
+543,134182,5,Yekaterinburg
+544,192049,1,Yekaterinburg
+545,124704,2,Moscow
+546,79115,8,Yekaterinburg
+547,121007,3,Moscow
+548,179143,3,Yekaterinburg
+549,41938,8,Kazan
+550,196267,8,Yekaterinburg
+551,121680,2,St. Petersburg
+552,34000,8,Yekaterinburg
+553,131042,1,Novosibirsk
+554,123610,6,Yekaterinburg
+555,133691,8,St. Petersburg
+556,68304,3,St. Petersburg
+557,99449,8,Moscow
+558,112986,1,Kazan
+559,181836,9,Yekaterinburg
+560,138940,9,Moscow
+561,68494,5,Kazan
+562,33373,4,Yekaterinburg
+563,173233,6,Novosibirsk
+564,127532,7,Yekaterinburg
+565,122658,5,St. Petersburg
+566,153633,9,St. Petersburg
+567,130386,3,Novosibirsk
+568,57350,7,Moscow
+569,123008,5,Kazan
+570,124297,7,Yekaterinburg
+571,55351,2,St. Petersburg
+572,118668,4,Moscow
+573,144585,2,Novosibirsk
+574,176377,7,St. Petersburg
+575,105353,2,Novosibirsk
+576,95953,1,Yekaterinburg
+577,87458,9,Kazan
+578,50358,1,St. Petersburg
+579,33267,8,St. Petersburg
+580,112745,2,Yekaterinburg
+581,119588,8,Moscow
+582,68513,3,Kazan
+583,187164,6,St. Petersburg
+584,41338,3,Kazan
+585,161484,7,St. Petersburg
+586,37543,9,Kazan
+587,135891,2,Novosibirsk
+588,194568,5,St. Petersburg
+589,90692,6,Kazan
+590,74425,4,Moscow
+591,68756,4,Novosibirsk
+592,48888,4,Novosibirsk
+593,196807,2,Moscow
+594,77295,4,Kazan
+595,144352,1,Yekaterinburg
+596,113042,6,Moscow
+597,115999,1,Kazan
+598,47955,6,Moscow
+599,67841,1,Moscow
+600,100640,6,St. Petersburg
+601,195983,8,Kazan
+602,168429,2,Yekaterinburg
+603,193551,2,St. Petersburg
+604,91476,4,Moscow
+605,74811,3,Moscow
+606,197280,4,Moscow
+607,181222,7,Kazan
+608,101180,1,Kazan
+609,142856,6,St. Petersburg
+610,98450,3,Yekaterinburg
+611,182424,7,St. Petersburg
+612,141888,2,Novosibirsk
+613,140448,2,Moscow
+614,44397,4,Moscow
+615,161800,1,Moscow
+616,149180,3,St. Petersburg
+617,96234,9,St. Petersburg
+618,69954,7,Moscow
+619,109459,7,St. Petersburg
+620,177851,4,Kazan
+621,185538,2,Kazan
+622,198011,4,St. Petersburg
+623,196342,6,Moscow
+624,89163,3,St. Petersburg
+625,81934,1,St. Petersburg
+626,193379,8,St. Petersburg
+627,84098,5,Novosibirsk
+628,35486,5,Kazan
+629,169407,4,Yekaterinburg
+630,116900,6,Yekaterinburg
+631,156020,3,Novosibirsk
+632,132795,9,St. Petersburg
+633,172202,5,Novosibirsk
+634,117508,3,Novosibirsk
+635,148324,1,Moscow
+636,90566,6,Kazan
+637,57192,2,Yekaterinburg
+638,31062,3,St. Petersburg
+639,114076,1,Yekaterinburg
+640,119780,9,Yekaterinburg
+641,182617,8,Kazan
+642,51689,2,Yekaterinburg
+643,41174,8,Yekaterinburg
+644,118461,9,Novosibirsk
+645,156174,1,Kazan
+646,133033,5,Moscow
+647,39348,8,St. Petersburg
+648,184786,2,Yekaterinburg
+649,68102,4,St. Petersburg
+650,104460,7,Moscow
+651,132634,3,St. Petersburg
+652,119930,5,Moscow
+653,36801,8,Novosibirsk
+654,133150,3,Yekaterinburg
+655,184697,4,Moscow
+656,31542,9,St. Petersburg
+657,51677,7,Yekaterinburg
+658,69081,1,Novosibirsk
+659,123105,4,Yekaterinburg
+660,49065,4,Moscow
+661,118092,9,Novosibirsk
+662,84693,6,St. Petersburg
+663,56962,9,Novosibirsk
+664,58295,6,Novosibirsk
+665,43807,6,Kazan
+666,187504,5,Novosibirsk
+667,198152,5,Novosibirsk
+668,162396,2,Yekaterinburg
+669,121267,8,St. Petersburg
+670,196981,8,Yekaterinburg
+671,49870,1,Yekaterinburg
+672,195650,8,Moscow
+673,56790,5,Yekaterinburg
+674,148874,2,Kazan
+675,55289,2,Kazan
+676,45485,6,Moscow
+677,74482,9,St. Petersburg
+678,116188,1,St. Petersburg
+679,34748,6,Yekaterinburg
+680,170507,9,Yekaterinburg
+681,33709,8,Yekaterinburg
+682,153961,6,St. Petersburg
+683,60355,3,Novosibirsk
+684,174188,8,Kazan
+685,186542,9,Novosibirsk
+686,72918,1,Novosibirsk
+687,82224,9,St. Petersburg
+688,69298,6,Novosibirsk
+689,110219,6,Moscow
+690,91629,4,Yekaterinburg
+691,96040,1,Moscow
+692,58016,8,Kazan
+693,53960,2,Yekaterinburg
+694,63591,1,Novosibirsk
+695,133333,2,Kazan
+696,144821,1,Yekaterinburg
+697,66395,1,Novosibirsk
+698,159695,9,Moscow
+699,183772,1,Yekaterinburg
+700,64620,4,Novosibirsk
+701,158148,6,Moscow
+702,50559,7,Kazan
+703,123396,2,Kazan
+704,51732,6,Kazan
+705,121362,7,Kazan
+706,191426,2,St. Petersburg
+707,43843,2,Yekaterinburg
+708,144065,7,Yekaterinburg
+709,101726,1,St. Petersburg
+710,47640,8,Novosibirsk
+711,82528,3,Novosibirsk
+712,68413,6,Kazan
+713,82638,9,Moscow
+714,140133,6,Novosibirsk
+715,136357,9,Moscow
+716,180159,7,Yekaterinburg
+717,185576,9,Moscow
+718,168186,2,Yekaterinburg
+719,108859,8,St. Petersburg
+720,129657,8,St. Petersburg
+721,172047,2,Kazan
+722,41023,4,Novosibirsk
+723,51447,7,Kazan
+724,155899,4,Yekaterinburg
+725,53959,4,Kazan
+726,96203,6,Moscow
+727,149156,6,Yekaterinburg
+728,190775,3,St. Petersburg
+729,39337,9,Novosibirsk
+730,76427,2,Yekaterinburg
+731,91529,6,Yekaterinburg
+732,132023,7,Moscow
+733,114665,9,Novosibirsk
+734,135787,3,St. Petersburg
+735,192993,3,Yekaterinburg
+736,63307,7,Yekaterinburg
+737,188427,4,Moscow
+738,157016,8,Kazan
+739,34835,7,St. Petersburg
+740,50159,5,Novosibirsk
+741,151790,7,Yekaterinburg
+742,135616,3,Yekaterinburg
+743,199160,2,St. Petersburg
+744,108752,6,Kazan
+745,85284,2,Yekaterinburg
+746,87043,3,St. Petersburg
+747,196619,6,Moscow
+748,127007,5,Kazan
+749,112844,8,Novosibirsk
+750,57532,9,Yekaterinburg
+751,195421,3,St. Petersburg
+752,152402,3,Moscow
+753,148012,3,Novosibirsk
+754,166785,6,St. Petersburg
+755,86178,1,St. Petersburg
+756,79407,7,Novosibirsk
+757,80990,1,Moscow
+758,159473,5,Moscow
+759,88141,8,Kazan
+760,184865,4,Yekaterinburg
+761,86570,5,Novosibirsk
+762,198964,4,Novosibirsk
+763,31015,4,Novosibirsk
+764,91813,8,Moscow
+765,57712,2,Yekaterinburg
+766,130497,1,Kazan
+767,169487,3,St. Petersburg
+768,142816,9,St. Petersburg
+769,158778,4,Novosibirsk
+770,92292,5,Yekaterinburg
+771,53833,2,Moscow
+772,165230,4,Yekaterinburg
+773,50309,2,Yekaterinburg
+774,36970,2,Moscow
+775,102474,4,Novosibirsk
+776,76540,6,Yekaterinburg
+777,181456,7,St. Petersburg
+778,48017,3,Moscow
+779,105880,3,Kazan
+780,135570,6,Novosibirsk
+781,38702,3,Moscow
+782,161456,2,Kazan
+783,30404,8,Kazan
+784,190261,5,Yekaterinburg
+785,42763,1,Yekaterinburg
+786,179456,3,Yekaterinburg
+787,128142,8,Moscow
+788,170932,4,Moscow
+789,110642,7,Novosibirsk
+790,80612,2,Yekaterinburg
+791,53574,7,Kazan
+792,53524,5,St. Petersburg
+793,40916,5,Novosibirsk
+794,34809,6,Moscow
+795,193273,9,Novosibirsk
+796,174528,6,Novosibirsk
+797,151288,8,Novosibirsk
+798,68765,7,Novosibirsk
+799,195888,9,St. Petersburg
+800,75106,4,Yekaterinburg
+801,83932,2,Kazan
+802,178172,7,Novosibirsk
+803,87091,6,Novosibirsk
+804,51949,1,Novosibirsk
+805,67744,9,Yekaterinburg
+806,138319,9,Moscow
+807,122193,2,Moscow
+808,66187,3,St. Petersburg
+809,168311,5,Moscow
+810,154454,5,Novosibirsk
+811,44489,1,Novosibirsk
+812,91877,8,Novosibirsk
+813,79922,8,St. Petersburg
+814,124074,4,Novosibirsk
+815,193121,7,Moscow
+816,67131,3,Yekaterinburg
+817,145765,6,Yekaterinburg
+818,103963,9,Kazan
+819,136884,1,Moscow
+820,155917,5,Novosibirsk
+821,54285,4,Yekaterinburg
+822,67626,8,Moscow
+823,49198,1,Yekaterinburg
+824,180830,9,Novosibirsk
+825,45254,6,Yekaterinburg
+826,74238,4,Kazan
+827,31252,9,Kazan
+828,69764,5,Yekaterinburg
+829,107709,5,Moscow
+830,198513,5,Moscow
+831,83682,1,Moscow
+832,89494,1,Yekaterinburg
+833,111317,8,Moscow
+834,95215,8,Novosibirsk
+835,108587,6,Kazan
+836,36949,4,Novosibirsk
+837,85393,2,Moscow
+838,168013,2,Novosibirsk
+839,55934,9,Moscow
+840,184458,5,Yekaterinburg
+841,105745,4,Novosibirsk
+842,124456,1,Yekaterinburg
+843,83413,7,Yekaterinburg
+844,127239,3,St. Petersburg
+845,72318,6,Moscow
+846,100390,5,Kazan
+847,73088,5,Moscow
+848,133196,5,Kazan
+849,85479,1,Moscow
+850,49963,1,Yekaterinburg
+851,85123,3,Novosibirsk
+852,155911,4,Novosibirsk
+853,132468,5,St. Petersburg
+854,103477,2,Kazan
+855,44388,8,Kazan
+856,35569,2,Kazan
+857,99836,9,Yekaterinburg
+858,134573,2,Kazan
+859,197658,9,Novosibirsk
+860,173087,7,Yekaterinburg
+861,75002,8,Moscow
+862,167326,2,Kazan
+863,178216,7,Kazan
+864,185286,6,Moscow
+865,167162,4,Kazan
+866,172709,7,Moscow
+867,183487,4,Yekaterinburg
+868,54071,2,Novosibirsk
+869,88243,7,Moscow
+870,155827,8,St. Petersburg
+871,138215,2,Moscow
+872,131570,5,Kazan
+873,194506,1,Yekaterinburg
+874,99724,7,Yekaterinburg
+875,145359,8,Moscow
+876,105697,6,Novosibirsk
+877,58732,5,St. Petersburg
+878,151465,6,Yekaterinburg
+879,172386,2,Kazan
+880,185026,1,Kazan
+881,87108,7,Novosibirsk
+882,141195,7,Yekaterinburg
+883,133081,2,Moscow
+884,66668,2,Kazan
+885,53061,1,Novosibirsk
+886,109252,8,Yekaterinburg
+887,69749,8,Yekaterinburg
+888,160560,1,Yekaterinburg
+889,134680,8,Yekaterinburg
+890,177979,9,Yekaterinburg
+891,179849,4,Kazan
+892,81745,1,Novosibirsk
+893,138464,1,Yekaterinburg
+894,121865,3,St. Petersburg
+895,142428,5,St. Petersburg
+896,53624,5,Novosibirsk
+897,53321,9,Moscow
+898,171560,2,Moscow
+899,52574,2,Moscow
+900,166312,6,St. Petersburg
+901,171550,9,Moscow
+902,180334,1,Kazan
+903,148831,9,Yekaterinburg
+904,165504,9,St. Petersburg
+905,125257,9,Novosibirsk
+906,94291,5,Novosibirsk
+907,157600,9,Yekaterinburg
+908,80428,4,St. Petersburg
+909,161374,2,Moscow
+910,161127,6,Moscow
+911,141317,4,Kazan
+912,169789,6,Kazan
+913,157449,3,Moscow
+914,58699,6,Novosibirsk
+915,103686,2,Novosibirsk
+916,97661,2,Kazan
+917,74247,9,Yekaterinburg
+918,177820,7,Moscow
+919,135113,3,Kazan
+920,34621,1,Kazan
+921,176106,8,Moscow
+922,166198,6,Moscow
+923,166194,7,Novosibirsk
+924,48030,9,Yekaterinburg
+925,112838,5,Yekaterinburg
+926,114717,1,Moscow
+927,68638,7,St. Petersburg
+928,97067,5,Kazan
+929,148033,3,Kazan
+930,135977,9,Moscow
+931,118869,1,St. Petersburg
+932,135186,1,Novosibirsk
+933,64674,1,Moscow
+934,196926,3,Moscow
+935,76271,6,Kazan
+936,103688,3,Moscow
+937,199590,8,Moscow
+938,141076,2,Moscow
+939,171339,9,Kazan
+940,31062,3,Novosibirsk
+941,80448,5,Novosibirsk
+942,125462,8,Moscow
+943,167301,2,Kazan
+944,77915,6,Novosibirsk
+945,34632,5,Novosibirsk
+946,134592,9,Novosibirsk
+947,164668,5,Kazan
+948,139779,2,Kazan
+949,167240,5,Moscow
+950,138099,4,Yekaterinburg
+951,37561,7,Novosibirsk
+952,112152,6,Yekaterinburg
+953,155036,2,Kazan
+954,154049,5,Kazan
+955,56734,7,Kazan
+956,167443,7,Yekaterinburg
+957,56069,5,Kazan
+958,42910,9,Moscow
+959,103479,4,Kazan
+960,111264,3,St. Petersburg
+961,53275,4,Yekaterinburg
+962,102274,5,St. Petersburg
+963,130776,6,Kazan
+964,78447,3,Moscow
+965,195601,2,Novosibirsk
+966,156394,4,Kazan
+967,105703,5,Moscow
+968,106090,4,Yekaterinburg
+969,47260,3,St. Petersburg
+970,142581,8,St. Petersburg
+971,33812,4,St. Petersburg
+972,189096,2,Yekaterinburg
+973,146148,2,Moscow
+974,188357,1,Yekaterinburg
+975,146421,4,St. Petersburg
+976,31605,9,Kazan
+977,102303,7,Novosibirsk
+978,188211,7,Yekaterinburg
+979,106125,7,Yekaterinburg
+980,174990,8,Moscow
+981,188518,1,Moscow
+982,154040,8,Yekaterinburg
+983,174118,4,St. Petersburg
+984,185890,4,Novosibirsk
+985,34324,4,Moscow
+986,106323,6,St. Petersburg
+987,39111,7,Kazan
+988,199182,6,Moscow
+989,46389,1,St. Petersburg
+990,152177,8,St. Petersburg
+991,71427,7,Novosibirsk
+992,189818,6,Novosibirsk
+993,152883,6,Kazan
+994,161189,5,St. Petersburg
+995,155808,6,St. Petersburg
+996,142221,9,Novosibirsk
+997,43234,9,Moscow
+998,83441,8,Moscow
+999,30846,9,Yekaterinburg
+1000,40954,8,Novosibirsk
+1001,109239,8,Yekaterinburg
+1002,76514,1,Novosibirsk
+1003,118236,5,Kazan
+1004,127579,4,St. Petersburg
+1005,167541,2,Kazan
+1006,191177,8,Novosibirsk
+1007,72101,3,St. Petersburg
+1008,94323,4,Moscow
+1009,121922,7,Moscow
+1010,198048,9,Yekaterinburg
+1011,157534,2,Novosibirsk
+1012,97584,3,Novosibirsk
+1013,134537,4,Moscow
+1014,108477,1,Kazan
+1015,72533,7,St. Petersburg
+1016,31828,2,Kazan
+1017,31917,5,Kazan
+1018,50618,1,Moscow
+1019,62254,3,Moscow
+1020,135292,2,Moscow
+1021,77362,1,Yekaterinburg
+1022,50128,7,Kazan
+1023,153781,5,Novosibirsk
+1024,95545,1,St. Petersburg
+1025,112180,6,Yekaterinburg
+1026,117958,5,Novosibirsk
+1027,170937,3,Kazan
+1028,163291,7,Moscow
+1029,69809,9,Kazan
+1030,146748,9,St. Petersburg
+1031,35287,9,Yekaterinburg
+1032,195459,2,Yekaterinburg
+1033,38512,3,St. Petersburg
+1034,162414,7,Novosibirsk
+1035,138872,5,Novosibirsk
+1036,180288,2,Yekaterinburg
+1037,123070,3,Yekaterinburg
+1038,109767,6,Moscow
+1039,127829,7,Novosibirsk
+1040,187686,9,St. Petersburg
+1041,197330,1,Novosibirsk
+1042,72078,7,Moscow
+1043,136288,8,Yekaterinburg
+1044,113524,3,Yekaterinburg
+1045,42219,4,Moscow
+1046,30235,6,St. Petersburg
+1047,72929,7,Yekaterinburg
+1048,157309,4,Kazan
+1049,97444,8,Yekaterinburg
+1050,169639,5,Kazan
+1051,131834,1,Moscow
+1052,114555,4,Moscow
+1053,103698,3,Yekaterinburg
+1054,154450,9,Novosibirsk
+1055,166487,8,Kazan
+1056,197231,1,St. Petersburg
+1057,73925,6,Yekaterinburg
+1058,167023,9,St. Petersburg
+1059,117388,7,Yekaterinburg
+1060,38007,4,Novosibirsk
+1061,88596,1,Novosibirsk
+1062,151101,2,Novosibirsk
+1063,191595,5,Novosibirsk
+1064,118861,5,Moscow
+1065,116740,8,Moscow
+1066,45524,6,Kazan
+1067,180354,8,St. Petersburg
+1068,185002,2,Yekaterinburg
+1069,161149,3,Yekaterinburg
+1070,155501,6,Moscow
+1071,50611,3,Yekaterinburg
+1072,178056,6,Moscow
+1073,44060,6,Kazan
+1074,73303,2,St. Petersburg
+1075,190359,7,Kazan
+1076,69711,2,Novosibirsk
+1077,173026,6,Novosibirsk
+1078,103340,1,Novosibirsk
+1079,132974,3,Kazan
+1080,179646,2,Yekaterinburg
+1081,170256,7,St. Petersburg
+1082,180168,4,Novosibirsk
+1083,97728,8,Novosibirsk
+1084,195088,6,Novosibirsk
+1085,41246,4,St. Petersburg
+1086,179453,5,Novosibirsk
+1087,157796,9,St. Petersburg
+1088,197527,7,Novosibirsk
+1089,122263,9,Kazan
+1090,165090,7,Kazan
+1091,41302,1,St. Petersburg
+1092,97506,8,Kazan
+1093,71157,4,St. Petersburg
+1094,84917,3,Kazan
+1095,126646,7,Kazan
+1096,113122,3,St. Petersburg
+1097,54519,8,Yekaterinburg
+1098,110910,6,Kazan
+1099,150430,5,Novosibirsk
